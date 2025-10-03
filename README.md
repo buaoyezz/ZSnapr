@@ -29,7 +29,7 @@ ZSnapr is a software for convenient screenshots. It will support more features i
 
 ## License
 
-MIT
+GPLv3
 
 ## Acknowledgements
 
