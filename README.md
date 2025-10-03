@@ -1,8 +1,7 @@
 # ZSnapr
+> A powerful and easy-to-use screenshot software built with Python, leveraging the Flet and PySide6 GUI frameworks.
 > [!TIP]
 > This is a new warehouse<br>The old one has been moved here.
-
-> A powerful and easy-to-use screenshot software built with Python, leveraging the Flet and PySide6 GUI frameworks.
 
 ## Overview
 
